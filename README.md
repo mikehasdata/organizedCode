@@ -1,1 +1,1 @@
-# Based on Elizabeth Theme Tutorial From Weeklyhow :) 
+Done With Help from Elizabeth Theme Tutorial on Weeklyhow :) 
